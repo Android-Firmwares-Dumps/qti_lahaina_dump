@@ -1,0 +1,6 @@
+service mlogd /system/system_ext/bin/mlogd
+    class main
+    user root
+    group system root shell
+
+

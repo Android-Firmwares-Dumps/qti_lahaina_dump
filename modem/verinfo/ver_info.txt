@@ -1,0 +1,26 @@
+{
+    "Image_Build_IDs": {
+        "adsp": "ADSP.HT.5.5-00484-LAHAINA-1", 
+        "aop": "AOP.HO.3.0-00148-LAHAINA_E-1", 
+        "apps": "LA.UM.9.14.r1-08100-LAHAINA.0-1", 
+        "apps_LE": "LE.UM.4.3.1.r1-01400-genericarmv8-64.0-1", 
+        "apps_qssi": "LA.QSSI.11.0.r1-05100-qssi.0-1", 
+        "boot": "BOOT.MXF.1.0-00335-LAHAINA-1", 
+        "btfm": "BTFM.HSP.1.0.0-00687-QCAHSPROMZ-1", 
+        "cdsp": "CDSP.HT.2.5-00509.1-LAHAINA-2", 
+        "common": "Lahaina.LA.1.0.r1-00450.04-STD.PROD-1", 
+        "cpucp": "CPUCP.FW.1.0-00025-LAHAINA.EXT-1", 
+        "glue": "GLUE.LAHAINA_LA.1.0-00208-NOOP_TEST-1", 
+        "modem": "MPSS.HI.4.0.r16-00011-LC_ALL_PACK-1", 
+        "slpi": "SLPI.HY.4.0-00148-LAHAINA-1", 
+        "tz": "TZ.XF.5.11-00088.2-SPF.LAHAINA-1", 
+        "tz_apps": "TZ.APPS.2.0-00113-SPF.LAHAINA-1", 
+        "wlan_hsp": "WLAN.HSP.1.1-01225-QCAHSPSWPL_V1_V2_SILICONZ-1"
+    }, 
+    "Metabuild_Info": {
+        "Meta_Build_ID": "Lahaina.LA.1.0.r1-00450.04-STD.PROD-1", 
+        "Product_Flavor": "asic", 
+        "Time_Stamp": "2021-05-20 00:04:51"
+    }, 
+    "Version": "1.0"
+}

@@ -1,0 +1,14 @@
+# qssi-user 12 SKQ1.210408.001 1620960465478 release-keys
+- manufacturer: 
+- platform: lahaina
+- codename: lahaina
+- flavor: qssi-user
+- release: 12
+- id: SKQ1.210408.001
+- incremental: 1620960465478
+- tags: release-keys
+- fingerprint: qti/lahaina/lahaina:12/SKQ1.210216.001/1620960465478:user/release-keys
+- is_ab: true
+- brand: qti
+- branch: qssi-user-12-SKQ1.210408.001-1620960465478-release-keys
+- repo: qti_lahaina_dump

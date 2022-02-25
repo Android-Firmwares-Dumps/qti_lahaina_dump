@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<oplus_esim_config>
+
+    <single_sim_config>
+        <nv>01010001</nv> <!-- Turkey -->
+        <nv>01001101</nv> <!-- AU VDF -->
+        <nv>01001100</nv> <!-- AU Telstra -->
+        <nv>01001111</nv> <!-- AU Optus -->
+    </single_sim_config>
+
+    <dual_sim_config>
+        <nv>01000100</nv> <!-- Europe EUEX -->
+        <nv>00101101</nv> <!-- New Zealand -->
+        <nv>00101001</nv> <!-- NZ 2DEGREES -->
+        <nv>01111000</nv> <!-- NZ WAREHOUSE -->
+        <nv>01111001</nv> <!-- NZ SKINNY -->
+        <nv>00101010</nv> <!-- NZ SPARK -->
+        <nv>10000100</nv> <!-- NZ VODAFONE -->
+        <nv>00011110</nv> <!-- Australia -->
+        <nv>01001010</nv> <!-- France ORANGE -->
+        <nv>01100111</nv> <!-- France BOUYGUE -->
+        <nv>10000110</nv> <!-- France Altice -->
+        <nv>01101011</nv> <!-- Italy TIM -->
+        <nv>01110111</nv> <!-- IT WIND3 -->
+        <nv>01111101</nv> <!-- VODAFONE_EEA -->
+        <nv>01000110</nv> <!-- Spain MOVISTAR -->
+        <nv>01100101</nv> <!-- Spain ORANGE -->
+        <nv>10001010</nv> <!-- GB CPW -->
+        <nv>01110011</nv> <!-- GB O2 -->
+        <nv>10001101</nv> <!-- Europe Noneea Dual Sim -->
+        <nv>10001000</nv> <!-- DE O2 -->
+        <nv>00111011</nv> <!-- Japan -->
+        <nv>01101100</nv> <!-- Japan RAKUTEN -->
+        <nv>01011000</nv> <!-- PL Orange -->
+    </dual_sim_config>
+
+</oplus_esim_config>

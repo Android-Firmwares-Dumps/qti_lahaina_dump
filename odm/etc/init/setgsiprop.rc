@@ -1,0 +1,8 @@
+service setgsiprop /odm/bin/setgsiprop
+    user root
+    oneshot
+    disabled
+
+on post-fs
+    start setgsiprop
+
